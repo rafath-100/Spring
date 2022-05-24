@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ì¯‚üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢§ˆüÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(†¿öQ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¡Ç¯úÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(Çğõ"
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÂÉªÁ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŸø³
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹–Øêşÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œØ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ñÿ‚øÿÿÿÿ

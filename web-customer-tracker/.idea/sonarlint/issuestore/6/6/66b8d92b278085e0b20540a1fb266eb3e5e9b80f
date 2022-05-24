@@ -1,0 +1,10 @@
+
+[
+java:S46846"@Replace this persistent entity with a simple POJO or DTO object.(ğŠ›Îÿÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Ê€Ÿ‚ùÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Ê€Ÿ‚ùÿÿÿÿ
+V
+java:S1128";Remove this unused import 'com.rafath.CRM.dao.CustomerDAO'.(š£Ùéşÿÿÿÿ
+i
+java:S11922"NDefine a constant instead of duplicating this literal "customer-form" 4 times.(ÙÀÃîÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ÔÂ

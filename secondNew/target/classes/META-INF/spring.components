@@ -1,0 +1,5 @@
+annotations.HappyFortuneService=org.springframework.stereotype.Component
+annotations.RESTFortuneService=org.springframework.stereotype.Component
+annotations.RandomFortuneService=org.springframework.stereotype.Component
+annotations.SportConfig=org.springframework.stereotype.Component
+annotations.TennisCoach=org.springframework.stereotype.Component

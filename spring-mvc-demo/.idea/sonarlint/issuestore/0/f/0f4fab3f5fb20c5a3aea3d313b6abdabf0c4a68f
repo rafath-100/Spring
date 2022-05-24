@@ -1,0 +1,6 @@
+
+Q	java:S1252"<This block of commented-out lines of code should be removed.(ŞªËÿ
+H
+java:S1128	"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+a
+java:S1192"KDefine a constant instead of duplicating this literal "helloworld" 3 times.(éÑª£

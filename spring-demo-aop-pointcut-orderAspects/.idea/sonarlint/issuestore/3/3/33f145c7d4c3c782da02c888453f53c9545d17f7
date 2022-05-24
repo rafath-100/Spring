@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦‰½´üÿÿÿÿ8µûªêŒ0
+]	java:S125"<This block of commented-out lines of code should be removed.(‰Å“ýÿÿÿÿ8©ÌêŒ0
+X	java:S125"<This block of commented-out lines of code should be removed.(¬ª¡×8©ÆÎêŒ0
+^
+java:S1128"ARemove this unused import 'org.aspectj.lang.annotation.Pointcut'.(ˆ“¡¿8ÇšËêŒ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥„ü©ýÿÿÿÿ8¿ûªêŒ0

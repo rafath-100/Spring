@@ -1,0 +1,11 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "myConn".(ç¯®İ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç´È£
+A
+java:S1481"+Remove this unused "myConn" local variable.(ç¯®İ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ…¤
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ç¯®İ

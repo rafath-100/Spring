@@ -1,0 +1,11 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "code".(ÏÛê¢ùÿÿÿÿ8óµ¥„0
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(½Ø¥àùÿÿÿÿ8ôµ¥„0
+K
+java:S1481")Remove this unused "name" local variable.(½Ø¥àùÿÿÿÿ8–¶¥„0
+K
+java:S1481")Remove this unused "code" local variable.(ÏÛê¢ùÿÿÿÿ8˜¶¥„0
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ì›Ûœùÿÿÿÿ8¶¥„0

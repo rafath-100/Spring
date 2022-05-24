@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â¹ñâ8ö¥¸„0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ĞØ”™ıÿÿÿÿ8û¥¸„0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜äÿÿÿÿÿ8ş¥¸„0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â¼ óøÿÿÿÿ8‚¦¸„0
+[
+java:S1172!">Remove these unused method parameters "theAccount", "vipFlag".(Ïã½ê8…¦¸„0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¾Ì½òùÿÿÿÿ8‡¦¸„0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆõüúûÿÿÿÿ8Š¦¸„0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‰²©ÿÿÿÿÿ8¦¸„0

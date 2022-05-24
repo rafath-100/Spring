@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²à©èûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔŸŸ‚ıÿÿÿÿ
+M	java:S106/"9Replace this use of System.out or System.err by a logger.(Çğõ"
+M	java:S106="9Replace this use of System.out or System.err by a logger.(Çğõ"
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÂÉªÁ8¬Úå‹0

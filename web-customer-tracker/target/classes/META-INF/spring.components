@@ -1,0 +1,5 @@
+com.rafath.CRM.controller.CustomerController=org.springframework.stereotype.Component
+com.rafath.CRM.dao.CustomerDAOImplementation=org.springframework.stereotype.Component
+com.rafath.CRM.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.rafath.CRM.service.CustomerServiceImplementation=org.springframework.stereotype.Component
+com.rafath.CRM.testDB.TestDbServlet=javax.servlet.annotation.WebServlet

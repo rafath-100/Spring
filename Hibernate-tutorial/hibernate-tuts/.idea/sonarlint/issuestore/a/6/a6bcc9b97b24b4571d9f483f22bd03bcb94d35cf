@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÒ¾8ÎË¦å‹0
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Çğõ"8ÕË¦å‹0
+]	java:S125$"<This block of commented-out lines of code should be removed.(ç‡É“şÿÿÿÿ8µ–¦å‹0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÂÉªÁ8¸–¦å‹0

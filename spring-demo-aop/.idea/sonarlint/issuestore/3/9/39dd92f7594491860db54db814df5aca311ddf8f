@@ -1,0 +1,6 @@
+
+T
+java:S1172">Remove these unused method parameters "theAccount", "vipFlag".(Ïã½ê
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¾Ì½òùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆõüúûÿÿÿÿ8Ù†äŒ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‰²©ÿÿÿÿÿ
